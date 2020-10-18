@@ -53,7 +53,7 @@ public://题解
     }
 };
 class Solution {
-public:
+public://https://www.cnblogs.com/hujunzheng/p/5042068.html stringstream   <sstream>
     bool isPalindrome(int x) {
         if (x < 0 || (x % 10 == 0 && x != 0))
 			return false;
